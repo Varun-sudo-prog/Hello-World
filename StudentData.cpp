@@ -17,6 +17,7 @@ int main() {
     cout << "Name = " << obj.name << "\n";
     cout << "Rollno = " << obj.rollno << "\n";
     cout << "Marks = " << obj.marks << "\n";
+    cout << "Marks = " << obj.marks << "\n";
 
     return 0;
 }
